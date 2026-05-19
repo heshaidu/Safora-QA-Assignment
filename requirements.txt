@@ -1,0 +1,6 @@
+Safora-QA-Assignment/
+
+Part1_TestCases.docx
+safora_test.py
+README.md
+requirements.txt
